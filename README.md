@@ -1,2 +1,1 @@
-# Computational_Intelligence_apllied_to_Information_Security
-PhD Elective class
+# Python Learning
